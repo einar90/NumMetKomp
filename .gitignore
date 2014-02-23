@@ -37,4 +37,4 @@
 *.thm
 
 # Unignoring compiled figure pdfs
-!kapitler/skyteteknikk/illustrasjoner/*.pdf
+!kapitler/*/latex/illustrasjoner/*.pdf
