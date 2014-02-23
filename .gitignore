@@ -30,3 +30,11 @@
 *.vrb
 *.xdy
 *.tdo
+*.pdf
+
+*.ptex
+*.fls
+*.thm
+
+# Unignoring compiled figure pdfs
+!kapitler/skyteteknikk/illustrasjoner/*.pdf
